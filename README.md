@@ -1,2 +1,2 @@
-# test
+# MEDICINE REMINDER SYSTEM
 optional
